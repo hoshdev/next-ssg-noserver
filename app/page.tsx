@@ -16,7 +16,7 @@ export default function Home() {
             href="/get-started"
             className="px-6 py-3 bg-white text-blue-600 font-semibold rounded-lg shadow-md hover:bg-gray-200"
           >
-            Get Started Now!
+            Get Started Now!!!
           </Link>
         </div>
       </header>
