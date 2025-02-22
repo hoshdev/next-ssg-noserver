@@ -59,6 +59,11 @@ export default function Home() {
       {/* Footer */}
       <footer className="bg-gray-800 text-white text-center py-6">
         <p>&copy; 2025 My Company. All rights reserved.</p>
+        <p>
+          <Link href="/contact" className="text-blue-400 hover:underline">
+            Contact Us
+          </Link>
+        </p>
       </footer>
     </div>
   );
